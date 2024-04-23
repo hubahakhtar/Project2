@@ -24,11 +24,13 @@ Each row within our dataset is a youth tobacco survey entry conducted according 
 
 **Two meaningful questions and Importance:**
 
-1. How does education level affect the levels that survey respondents use tobacco over time? 
+1. How does education level affect the levels that survey respondents use tobacco over time?
+   
 → This question is meaningful because it is a topic that is relatively frequently researched. It is known that education level from middle to high school shows a very distinct age range, and age is a strong indicator of brain development, therefore, this question is more so linking age and brain development and using tobacco products. This is also a question that can be very useful for parents with children around this age; Some parents are very oblivious to assume “No, my middle or high schooler does not use tobacco products.” This display clearly shows that that is not true for many children of that age from this data set. In light of many recent campaigns to encourage open conversations between parents and their children regarding drug/alcohol safety, a display such as this will encourage parents to bridge that gap and join this movement of more open conversations about safety, as this is undeniable that an increasing number of middle schooler over time as well and an even higher about of highschoolers over time have used tobacco products. 
 ![a](https://github.com/hubahakhtar/Project2/assets/165077668/db8e8c5e-6340-46f5-ba04-cb518cef0ac9)
 
 2. How does the amount of people/density of people who frequently smoke change over time by state?
+   
 → This question is meaningful because we can see the various influences of social, economic, and cultural changes directly impacting the data. High smoking prevalence correlated with increased healthcare costs due to smoking-related illnesses creates increasing healthcare costs. Also, states with stricter tobacco policies often experience declines in smoking rates which can aid in decreasing healthcare costs. We can track the data to use later to predict healthcare costs for the future. Analyzing smoking prevalence in certain southern states and constantly changing policies provides insights into the effectiveness of public health policies in place. The cultural norms continuously developing and “trends” coming and going reflects shifts in societal perceptions and behaviors. By integrating multiple data sources, researchers can uncover complex relationships between smoking behavior and economic factors, informing evidence-based policies and interventions to reduce smoking prevalence and its associated burdens.
 
 Aggregate state data:
