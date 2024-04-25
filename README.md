@@ -1,5 +1,5 @@
 # Project 2
-Group Members
+Group 1: Members
 
 Gwen: https://github.com/gaw63800/Group-Project-2-4610
 
